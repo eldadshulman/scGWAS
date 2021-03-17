@@ -10,26 +10,21 @@ Genome-Wide Association Studies (GWAS) and single-cell RNA-seq
 
 The analysis performs the following three main tasks:
 
-1.  Identification of connections between developmental trajectories and
-    traits.
+#### 1\. Identification of connections between developmental trajectories and traits.
 
-See the following (vignette)\[\] for example code.
+See the following
+[vignette](https://github.com/eldadshulman/scGWAS/blob/master/vignettes/vignette.md)
+for example code.
 
-2.  Elucidate molecular pathways that underlie the link between the
-    trajectory and trait
+#### 2\. Elucidate molecular pathways that underlie the link between the trajectory and trait
 
-See the following vignette for example code.
-
-3.  Prioritize genes that carry the link between the pathway, trait and
-    trajectory
-
-See the following vignette for example code.
+#### 3\. Prioritize genes that carry the link between the pathway, trait and trajectory
 
 ## Authors
 
   - Eldad David Shulman
 
-  - Ran Elkon
+  - Prof. Ran Elkon
 
 ## License
 
