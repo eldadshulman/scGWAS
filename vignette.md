@@ -86,7 +86,7 @@ generate_covs_cells(exp = exp, cors = 20, wd = ".")
 The next step, it running the gene property analysis, for each cell.
 This analysis firs the following the regression model to each cell:
 
-![](/specific/elkon/eldadshulman/scGWAS/eq.PNG)
+![](https://github.com/eldadshulman/scGWAS/blob/master/eq.PNG)
 
 where Z is the vector of the gene’s Z-score converted from the p-values
 obtained from MAGMA’s gene analysis for the trait. B is a matrix of
